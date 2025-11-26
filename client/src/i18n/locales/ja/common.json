@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "あなた独自の道を発見する",
+  "error": "エラー",
+  "tryAgain": "再試行",
+  "next": "次へ",
+  "back": "戻る",
+  "submit": "送信",
+  "continue": "続ける",
+  "startJourney": "旅を始める",
+  "beginYourJourney": "旅を始める",
+  "explore": "探索",
+  "startNewAnalysis": "新しい分析を開始",
+  "explorePersonalities": "性格を探索",
+  "hero": {
+    "title": "本当の自分を発見する",
+    "subtitle": "あなたの強み、課題、そしてパーソナライズされた成長ロードマップを明らかにするAI搭載の性格分析",
+    "cta": "旅を始める"
+  },
+  "landing": {
+    "aiPowered": "AI駆動の自己発見",
+    "decodeYour": "あなたの",
+    "truePotential": "真のポテンシャルを解読",
+    "subtitle": "単純な性格診断を超えて。AIによる心理の深い分析を体験し、夢へのパーソナライズされたロードマップを手に入れましょう。",
+    "startAnalysis": "分析を開始",
+    "explorePersonas": "性格を探索",
+    "features": {
+      "deepAnalysis": {
+        "title": "深い分析",
+        "desc": "心理的な深さのためにGemini Pro 1.5を搭載。"
+      },
+      "actionableRoadmap": {
+        "title": "実行可能なロードマップ",
+        "desc": "人生の目標を達成するための具体的なステップ。"
+      },
+      "visualJourney": {
+        "title": "ビジュアルジャーニー",
+        "desc": "あなたの道を表すAI生成画像。"
+      }
+    }
+  },
+  "nav": {
+    "home": "ホーム",
+    "personas": "ペルソナ",
+    "about": "概要"
+  },
+  "userInfo": {
+    "title": "あなたについて教えてください",
+    "subtitle": "体験をパーソナライズするためにご協力ください",
+    "helpText": "これにより、AIがよりパーソナライズされた分析を作成できます",
+    "age": "年齢",
+    "agePlaceholder": "年齢を入力",
+    "location": "場所",
+    "locationPlaceholder": "例：東京、日本",
+    "jobTitle": "職種 / 業界",
+    "jobTitlePlaceholder": "例：ソフトウェアエンジニア、学生、起業家",
+    "economicSituation": "経済状況",
+    "primaryGoal": "主な目標 / 願望",
+    "primaryGoalPlaceholder": "例：自分のビジネスを立ち上げる、ワークライフバランスを改善する...",
+    "economicStruggling": "苦しい",
+    "economicTight": "厳しい",
+    "economicStable": "安定",
+    "economicComfortable": "余裕がある",
+    "economicWealthy": "裕福"
+  },
+  "questionnaire": {
+    "questionCount": "質問 {{current}} / {{total}}",
+    "stronglyDisagree": "全くそう思わない",
+    "stronglyAgree": "非常にそう思う",
+    "keyboardHint": "1-5で選択、←/→で移動"
+  },
+  "results": {
+    "analysisComplete": "分析完了",
+    "yourProfile": "あなたのペルソナプロフィール",
+    "poweredBy": "AI搭載 • パーソナライズされた洞察 • 実践的な戦略",
+    "coreAnalysis": "AI生成キャラクター分析",
+    "personalityRadar": "性格レーダー",
+    "traitBreakdown": "特性の内訳",
+    "strategicRoadmap": "戦略的ロードマップ",
+    "yourPath": "成功へのパーソナライズされた道",
+    "downloadPDF": "PDFをダウンロード",
+    "downloadingPDF": "PDFを生成中...",
+    "youAre": "あなたは",
+    "completeProfile": "あなたの完全な性格プロフィール",
+    "mbtiType": "MBTIタイプ",
+    "enneagram": "エニアグラム",
+    "discStyle": "DISCスタイル",
+    "temperament": "気質",
+    "bigFiveTraits": "支配的なビッグファイブの特性",
+    "step": "ステップ {{number}}",
+    "loading": "読み込み中...",
+    "traits": {
+      "vision": "ビジョン",
+      "drive": "推進力",
+      "empathy": "共感",
+      "logic": "論理",
+      "adaptability": "適応性",
+      "creativity": "創造性"
+    },
+    "back": "戻る",
+    "next": "次へ",
+    "pressToSelect": "1-5キーで選択、←/→キーで移動"
+  },
+  "loading": {
+    "analyzing": "プロフィールを分析中",
+    "message": "AIがあなたの回答を分析して、パーソナライズされたプロフィールを作成しています..."
+  }
+}

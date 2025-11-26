@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "Discover your unique path",
+  "error": "Error",
+  "tryAgain": "Try Again",
+  "next": "Next",
+  "back": "Back",
+  "submit": "Submit",
+  "continue": "Continue",
+  "startJourney": "Start Your Journey",
+  "beginYourJourney": "Begin Your Journey",
+  "explore": "Explore",
+  "startNewAnalysis": "Start New Analysis",
+  "explorePersonalities": "Explore Personalities",
+  "hero": {
+    "title": "Discover Your True Self",
+    "subtitle": "AI-powered personality analysis that reveals your strengths, challenges, and personalized growth roadmap",
+    "cta": "Begin Your Journey"
+  },
+  "landing": {
+    "aiPowered": "AI-Powered Self Discovery",
+    "decodeYour": "Decode Your",
+    "truePotential": "True Potential",
+    "subtitle": "Go beyond simple personality tests. Experience a deep, AI-driven analysis of your psyche and get a personalized roadmap to your dreams.",
+    "startAnalysis": "Start Analysis",
+    "explorePersonas": "Explore Personas",
+    "features": {
+      "deepAnalysis": {
+        "title": "Deep Analysis",
+        "desc": "Powered by Gemini Pro 1.5 for psychological depth."
+      },
+      "actionableRoadmap": {
+        "title": "Actionable Roadmap",
+        "desc": "Concrete steps to achieve your life goals."
+      },
+      "visualJourney": {
+        "title": "Visual Journey",
+        "desc": "AI-generated imagery representing your path."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "personas": "Personas",
+    "about": "About"
+  },
+  "userInfo": {
+    "title": "Tell Us About Yourself",
+    "subtitle": "Help us personalize your experience",
+    "helpText": "This helps our AI create a more personalized analysis",
+    "age": "Age",
+    "agePlaceholder": "Enter your age",
+    "location": "Location",
+    "locationPlaceholder": "e.g., New York, USA",
+    "jobTitle": "Job Title / Industry",
+    "jobTitlePlaceholder": "e.g., Software Engineer, Student, Entrepreneur",
+    "economicSituation": "Economic Situation",
+    "primaryGoal": "Primary Goal / Aspiration",
+    "primaryGoalPlaceholder": "e.g., Launch my own business, Find better work-life balance...",
+    "economicStruggling": "Struggling",
+    "economicTight": "Tight",
+    "economicStable": "Stable",
+    "economicComfortable": "Comfortable",
+    "economicWealthy": "Wealthy"
+  },
+  "questionnaire": {
+    "questionCount": "Question {{current}} of {{total}}",
+    "stronglyDisagree": "Strongly Disagree",
+    "stronglyAgree": "Strongly Agree",
+    "keyboardHint": "Press 1-5 to select, ←/→ to navigate"
+  },
+  "results": {
+    "analysisComplete": "Analysis Complete",
+    "yourProfile": "Your Persona Profile",
+    "poweredBy": "Powered by AI • Personalized Insights • Actionable Strategies",
+    "coreAnalysis": "AI-Generated Character Analysis",
+    "personalityRadar": "Personality Radar",
+    "traitBreakdown": "Trait Breakdown",
+    "strategicRoadmap": "Strategic Roadmap",
+    "yourPath": "Your personalized path to success",
+    "downloadPDF": "Download PDF",
+    "downloadingPDF": "Generating PDF...",
+    "youAre": "You are {{article}}",
+    "completeProfile": "Your Complete Personality Profile",
+    "mbtiType": "MBTI Type",
+    "enneagram": "Enneagram",
+    "discStyle": "DISC Style",
+    "temperament": "Temperament",
+    "bigFiveTraits": "Dominant Big Five Traits",
+    "step": "STEP {{number}}",
+    "loading": "Loading...",
+    "traits": {
+      "vision": "Vision",
+      "drive": "Drive",
+      "empathy": "Empathy",
+      "logic": "Logic",
+      "adaptability": "Adaptability",
+      "creativity": "Creativity"
+    },
+    "back": "Back",
+    "next": "Next",
+    "pressToSelect": "Press 1-5 to select, ←/→ to navigate"
+  },
+  "loading": {
+    "analyzing": "Analyzing Profile",
+    "message": "Our AI is analyzing your responses to create a personalized profile..."
+  }
+}

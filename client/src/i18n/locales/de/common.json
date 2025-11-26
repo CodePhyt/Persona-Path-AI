@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "Entdecken Sie Ihren einzigartigen Weg",
+  "error": "Fehler",
+  "tryAgain": "Erneut versuchen",
+  "next": "Weiter",
+  "back": "Zurück",
+  "submit": "Absenden",
+  "continue": "Fortfahren",
+  "startJourney": "Beginnen Sie Ihre Reise",
+  "beginYourJourney": "Beginnen Sie Ihre Reise",
+  "explore": "Erkunden",
+  "startNewAnalysis": "Neue Analyse starten",
+  "explorePersonalities": "Persönlichkeiten erkunden",
+  "hero": {
+    "title": "Entdecken Sie Ihr wahres Ich",
+    "subtitle": "KI-gestützte Persönlichkeitsanalyse, die Ihre Stärken, Herausforderungen und einen persönlichen Wachstumsplan enthüllt",
+    "cta": "Beginnen Sie Ihre Reise"
+  },
+  "landing": {
+    "aiPowered": "KI-gestützte Selbstentdeckung",
+    "decodeYour": "Entschlüsseln Sie Ihr",
+    "truePotential": "Wahres Potenzial",
+    "subtitle": "Gehen Sie über einfache Persönlichkeitstests hinaus. Erleben Sie eine tiefgehende, KI-gesteuerte Analyse Ihrer Psyche und erhalten Sie eine personalisierte Roadmap zu Ihren Träumen.",
+    "startAnalysis": "Analyse starten",
+    "explorePersonas": "Persönlichkeiten erkunden",
+    "features": {
+      "deepAnalysis": {
+        "title": "Tiefgehende Analyse",
+        "desc": "Angetrieben von Gemini Pro 1.5 für psychologische Tiefe."
+      },
+      "actionableRoadmap": {
+        "title": "Umsetzbare Roadmap",
+        "desc": "Konkrete Schritte zur Erreichung Ihrer Lebensziele."
+      },
+      "visualJourney": {
+        "title": "Visuelle Reise",
+        "desc": "KI-generierte Bilder, die Ihren Weg darstellen."
+      }
+    }
+  },
+  "nav": {
+    "home": "Startseite",
+    "personas": "Personas",
+    "about": "Über uns"
+  },
+  "userInfo": {
+    "title": "Erzählen Sie uns von sich",
+    "subtitle": "Helfen Sie uns, Ihre Erfahrung zu personalisieren",
+    "helpText": "Dies hilft unserer KI, eine personalisiertere Analyse zu erstellen",
+    "age": "Alter",
+    "agePlaceholder": "Geben Sie Ihr Alter ein",
+    "location": "Ort",
+    "locationPlaceholder": "z.B. Berlin, Deutschland",
+    "jobTitle": "Berufsbezeichnung / Branche",
+    "jobTitlePlaceholder": "z.B. Softwareentwickler, Student, Unternehmer",
+    "economicSituation": "Wirtschaftliche Situation",
+    "primaryGoal": "Hauptziel / Aspiration",
+    "primaryGoalPlaceholder": "z.B. Eigenes Unternehmen gründen, Bessere Work-Life-Balance...",
+    "economicStruggling": "Kämpfend",
+    "economicTight": "Knapp",
+    "economicStable": "Stabil",
+    "economicComfortable": "Komfortabel",
+    "economicWealthy": "Wohlhabend"
+  },
+  "questionnaire": {
+    "questionCount": "Frage {{current}} von {{total}}",
+    "stronglyDisagree": "Stimme überhaupt nicht zu",
+    "stronglyAgree": "Stimme voll zu",
+    "keyboardHint": "Drücken Sie 1-5 zur Auswahl, ←/→ zum Navigieren"
+  },
+  "results": {
+    "analysisComplete": "Analyse abgeschlossen",
+    "yourProfile": "Ihr Persona-Profil",
+    "poweredBy": "Powered by AI • Personalisierte Einblicke • Umsetzbare Strategien",
+    "coreAnalysis": "KI-generierte Charakteranalyse",
+    "personalityRadar": "Persönlichkeitsradar",
+    "traitBreakdown": "Eigenschaftsaufschlüsselung",
+    "strategicRoadmap": "Strategischer Fahrplan",
+    "yourPath": "Ihr persönlicher Weg zum Erfolg",
+    "downloadPDF": "PDF herunterladen",
+    "downloadingPDF": "PDF wird generiert...",
+    "youAre": "Sie sind",
+    "completeProfile": "Ihr Vollständiges Persönlichkeitsprofil",
+    "mbtiType": "MBTI Typ",
+    "enneagram": "Enneagramm",
+    "discStyle": "DISC Stil",
+    "temperament": "Temperament",
+    "bigFiveTraits": "Dominante Big Five Eigenschaften",
+    "step": "SCHRITT {{number}}",
+    "loading": "Wird geladen...",
+    "traits": {
+      "vision": "Vision",
+      "drive": "Antrieb",
+      "empathy": "Empathie",
+      "logic": "Logik",
+      "adaptability": "Anpassungsfähigkeit",
+      "creativity": "Kreativität"
+    },
+    "back": "Zurück",
+    "next": "Weiter",
+    "pressToSelect": "Drücken Sie 1-5 zur Auswahl, ←/→ zum Navigieren"
+  },
+  "loading": {
+    "analyzing": "Profil wird analysiert",
+    "message": "Unsere KI analysiert Ihre Antworten, um ein personalisiertes Profil zu erstellen..."
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "title": "Arquétipos de Personalidade",
+  "subtitle": "Explore as diversas estruturas que moldam o comportamento humano e o potencial",
+  "strengths": "Pontos Fortes",
+  "careers": "Carreiras",
+  "systems": {
+    "mbti": "MBTI",
+    "enneagram": "Eneagrama",
+    "disc": "DISC",
+    "temperament": "Temperamento",
+    "bigFive": "Big Five"
+  },
+  "mbti": {
+    "INTJ": {
+      "title": "O Arquiteto",
+      "description": "Pensadores imaginativos e estratégicos",
+      "strengths": [
+        "Planejamento estratégico",
+        "Pensamento independente",
+        "Resolução problemas complexos"
+      ],
+      "careers": [
+        "Cientista de Dados",
+        "Planejador Estratégico",
+        "Arquiteto de Software"
+      ]
+    },
+    "ENFJ": {
+      "title": "O Protagonista",
+      "description": "Líderes carismáticos e inspiradores",
+      "strengths": [
+        "Liderança natural",
+        "Empatia",
+        "Comunicação"
+      ],
+      "careers": [
+        "Gerente de RH",
+        "Professor",
+        "Diretor de Marketing"
+      ]
+    },
+    "INTP": {
+      "title": "O Lógico",
+      "description": "Inventores inovadores com sede de conhecimento",
+      "strengths": [
+        "Pensamento analítico",
+        "Ideias originais",
+        "Mentalidade aberta"
+      ],
+      "careers": [
+        "Desenvolvedor de Software",
+        "Cientista Pesquisador",
+        "Analista de Sistemas"
+      ]
+    },
+    "ENFP": {
+      "title": "O Ativista",
+      "description": "Espíritos livres entusiastas e criativos",
+      "strengths": [
+        "Criatividade",
+        "Habilidades interpessoais",
+        "Entusiasmo"
+      ],
+      "careers": [
+        "Conselheiro",
+        "Jornalista",
+        "Artista"
+      ]
+    },
+    "ISTJ": {
+      "title": "O Inspetor",
+      "description": "Indivíduos práticos e objetivos",
+      "strengths": [
+        "Organizado",
+        "Honesto",
+        "Forte vontade"
+      ],
+      "careers": [
+        "Contador",
+        "Oficial Militar",
+        "Juiz"
+      ]
+    },
+    "ESFJ": {
+      "title": "O Cônsul",
+      "description": "Pessoas carinhosas e sociais",
+      "strengths": [
+        "Apoio aos outros",
+        "Habilidades sociais",
+        "Organizado"
+      ],
+      "careers": [
+        "Enfermeiro",
+        "Coordenador de Eventos",
+        "Assistente Social"
+      ]
+    },
+    "ISTP": {
+      "title": "O Virtuoso",
+      "description": "Experimentadores ousados e práticos",
+      "strengths": [
+        "Habilidades práticas",
+        "Resolução de problemas",
+        "Adaptável"
+      ],
+      "careers": [
+        "Mecânico",
+        "Engenheiro",
+        "Piloto"
+      ]
+    },
+    "ESFP": {
+      "title": "O Animador",
+      "description": "Artistas espontâneos e enérgicos",
+      "strengths": [
+        "Entusiasmo",
+        "Habilidades sociais",
+        "Criatividade"
+      ],
+      "careers": [
+        "Artista",
+        "Representante de Vendas",
+        "Planejador de Eventos"
+      ]
+    },
+    "INFJ": {
+      "title": "O Advogado",
+      "description": "Idealistas silenciosos e místicos",
+      "strengths": [
+        "Profunda intuição",
+        "Visão criativa",
+        "Idealismo"
+      ],
+      "careers": [
+        "Conselheiro",
+        "Escritor",
+        "Coach de Vida"
+      ]
+    },
+    "ENTJ": {
+      "title": "O Comandante",
+      "description": "Líderes ousados e imaginativos",
+      "strengths": [
+        "Liderança",
+        "Pensamento estratégico",
+        "Carisma"
+      ],
+      "careers": [
+        "CEO",
+        "Advogado",
+        "Líder Político"
+      ]
+    },
+    "INFP": {
+      "title": "O Mediador",
+      "description": "Altruístas poéticos e gentis",
+      "strengths": [
+        "Idealismo",
+        "Criatividade",
+        "Empatia"
+      ],
+      "careers": [
+        "Escritor",
+        "Terapeuta",
+        "Artista"
+      ]
+    },
+    "ENTP": {
+      "title": "O Debatedor",
+      "description": "Pensadores inteligentes e curiosos",
+      "strengths": [
+        "Pensamento rápido",
+        "Original",
+        "Conhecedor"
+      ],
+      "careers": [
+        "Engenheiro",
+        "Advogado",
+        "Cientista"
+      ]
+    },
+    "ISFJ": {
+      "title": "O Defensor",
+      "description": "Protetores dedicados e calorosos",
+      "strengths": [
+        "Solidário",
+        "Confiável",
+        "Prático"
+      ],
+      "careers": [
+        "Enfermeiro",
+        "Professor",
+        "Administrador"
+      ]
+    },
+    "ESTJ": {
+      "title": "O Executivo",
+      "description": "Excelentes administradores",
+      "strengths": [
+        "Organizado",
+        "Direto",
+        "Princípios fortes"
+      ],
+      "careers": [
+        "Gerente",
+        "Juiz",
+        "Proprietário de Negócio"
+      ]
+    },
+    "ISFP": {
+      "title": "O Aventureiro",
+      "description": "Artistas flexíveis e encantadores",
+      "strengths": [
+        "Artístico",
+        "Adaptável",
+        "Criatividade prática"
+      ],
+      "careers": [
+        "Artista",
+        "Designer",
+        "Veterinário"
+      ]
+    },
+    "ESTP": {
+      "title": "O Empreendedor",
+      "description": "Tomadores de risco inteligentes e perceptivos",
+      "strengths": [
+        "Tomada de riscos",
+        "Adaptabilidade",
+        "Resolução problemas"
+      ],
+      "careers": [
+        "Empreendedor",
+        "Executivo de Vendas",
+        "Treinador Esportivo"
+      ]
+    }
+  },
+  "enneagram": {
+    "Type 1": {
+      "title": "O Reformador",
+      "description": "Principista e perfeccionista",
+      "strengths": [
+        "Ético",
+        "Confiável",
+        "Orientado à melhoria"
+      ],
+      "careers": [
+        "Garantia de Qualidade",
+        "Editor",
+        "Profissional Jurídico"
+      ]
+    },
+    "Type 2": {
+      "title": "O Ajudador",
+      "description": "Generoso e complacente",
+      "strengths": [
+        "Empatia",
+        "Generosidade",
+        "Inteligência emocional"
+      ],
+      "careers": [
+        "Enfermeiro",
+        "Professor",
+        "Assistente Social"
+      ]
+    },
+    "Type 3": {
+      "title": "O Realizador",
+      "description": "Orientado ao sucesso e pragmático",
+      "strengths": [
+        "Eficiente",
+        "Orientado a objetivos",
+        "Confiante"
+      ],
+      "careers": [
+        "Executivo",
+        "Empreendedor",
+        "Gerente de Vendas"
+      ]
+    },
+    "Type 4": {
+      "title": "O Individualista",
+      "description": "Sensível e expressivo",
+      "strengths": [
+        "Criatividade",
+        "Consciência emocional",
+        "Autenticidade"
+      ],
+      "careers": [
+        "Artista",
+        "Terapeuta",
+        "Escritor"
+      ]
+    },
+    "Type 5": {
+      "title": "O Investigador",
+      "description": "Pensadores intensos e inovadores",
+      "strengths": [
+        "Perceptivo",
+        "Independente",
+        "Conhecedor"
+      ],
+      "careers": [
+        "Pesquisador",
+        "Cientista",
+        "Analista"
+      ]
+    },
+    "Type 6": {
+      "title": "O Leal",
+      "description": "Comprometido e orientado à segurança",
+      "strengths": [
+        "Lealdade",
+        "Antecipação de problemas",
+        "Jogador de equipe"
+      ],
+      "careers": [
+        "Gerente de Riscos",
+        "Segurança",
+        "Profissional de RH"
+      ]
+    },
+    "Type 7": {
+      "title": "O Entusiasta",
+      "description": "Ocupado e amante da diversão",
+      "strengths": [
+        "Otimismo",
+        "Versatilidade",
+        "Produtividade"
+      ],
+      "careers": [
+        "Criativo de Marketing",
+        "Agente de Viagens",
+        "Empreendedor"
+      ]
+    },
+    "Type 8": {
+      "title": "O Desafiador",
+      "description": "Poderoso e confiante",
+      "strengths": [
+        "Liderança",
+        "Proteção",
+        "Tomada de decisões"
+      ],
+      "careers": [
+        "Executivo",
+        "Advogado",
+        "Líder Militar"
+      ]
+    },
+    "Type 9": {
+      "title": "O Pacificador",
+      "description": "Tranquilo e receptivo",
+      "strengths": [
+        "Mediação",
+        "Escuta",
+        "Criação de harmonia"
+      ],
+      "careers": [
+        "Mediador",
+        "Diplomata",
+        "Conselheiro"
+      ]
+    }
+  },
+  "disc": {
+    "D-Style": {
+      "title": "Dominância",
+      "description": "Direto e orientado a resultados",
+      "strengths": [
+        "Liderança",
+        "Resolução de problemas",
+        "Tomar iniciativa"
+      ],
+      "careers": [
+        "Executivo",
+        "Empreendedor",
+        "Diretor de Vendas"
+      ]
+    },
+    "I-Style": {
+      "title": "Influência",
+      "description": "Extrovertido e entusiasta",
+      "strengths": [
+        "Comunicação",
+        "Networking",
+        "Colaboração"
+      ],
+      "careers": [
+        "Representante de Vendas",
+        "Relações Públicas",
+        "Gerente de Marketing"
+      ]
+    },
+    "S-Style": {
+      "title": "Estabilidade",
+      "description": "Equilibrado e paciente",
+      "strengths": [
+        "Escuta",
+        "Trabalho em equipe",
+        "Acompanhamento"
+      ],
+      "careers": [
+        "Profissional de RH",
+        "Conselheiro",
+        "Atendimento ao Cliente"
+      ]
+    },
+    "C-Style": {
+      "title": "Conscienciosidade",
+      "description": "Analítico e preciso",
+      "strengths": [
+        "Precisão",
+        "Resolução de problemas",
+        "Organização"
+      ],
+      "careers": [
+        "Analista",
+        "Programador",
+        "Contador"
+      ]
+    }
+  },
+  "temperament": {
+    "Choleric": {
+      "title": "O Líder",
+      "description": "Líderes naturais ambiciosos e determinados",
+      "strengths": [
+        "Orientado a objetivos",
+        "Confiante",
+        "Tomada de decisões"
+      ],
+      "careers": [
+        "Executivo",
+        "Empreendedor",
+        "Líder Político"
+      ]
+    },
+    "Sanguine": {
+      "title": "O Socializador",
+      "description": "Extrovertido e naturalmente alegre",
+      "strengths": [
+        "Comunicação",
+        "Entusiasmo",
+        "Criatividade"
+      ],
+      "careers": [
+        "Vendas",
+        "Entretenimento",
+        "Ensino"
+      ]
+    },
+    "Phlegmatic": {
+      "title": "O Pacificador",
+      "description": "Relaxado e adaptável",
+      "strengths": [
+        "Consistência",
+        "Diplomacia",
+        "Habilidade administrativa"
+      ],
+      "careers": [
+        "Conselheiro",
+        "Administrador",
+        "Papel de Apoio"
+      ]
+    },
+    "Melancholic": {
+      "title": "O Pensador",
+      "description": "Perfeccionistas profundos e analíticos",
+      "strengths": [
+        "Orientado a detalhes",
+        "Organização",
+        "Pensamento analítico"
+      ],
+      "careers": [
+        "Pesquisador",
+        "Escritor",
+        "Controle de Qualidade"
+      ]
+    }
+  },
+  "bigFive": {
+    "High Openness": {
+      "title": "O Explorador",
+      "description": "Curioso e criativo",
+      "strengths": [
+        "Inovação",
+        "Pensamento abstrato",
+        "Apreciaçãode arte"
+      ],
+      "careers": [
+        "Artista",
+        "Pesquisador",
+        "Escritor"
+      ]
+    },
+    "High Conscientiousness": {
+      "title": "O Organizador",
+      "description": "Responsável e organizado",
+      "strengths": [
+        "Autodisciplina",
+        "Planejamento",
+        "Atenção a detalhes"
+      ],
+      "careers": [
+        "Gerente de Projetos",
+        "Analista Financeiro",
+        "Analista de Sistemas"
+      ]
+    },
+    "High Extraversion": {
+      "title": "O Energizador",
+      "description": "Extrovertido e enérgico",
+      "strengths": [
+        "Liderança",
+        "Networking",
+        "Entusiasmo"
+      ],
+      "careers": [
+        "Representante de Vendas",
+        "Planejador de Eventos",
+        "Relações Públicas"
+      ]
+    },
+    "High Agreeableness": {
+      "title": "O Diplomata",
+      "description": "Cooperativo e compassivo",
+      "strengths": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Resolução de conflitos"
+      ],
+      "careers": [
+        "Conselheiro",
+        "Assistente Social",
+        "Professor"
+      ]
+    },
+    "High Neuroticism": {
+      "title": "O Sensível",
+      "description": "Emocionalmente consciente e receptivo",
+      "strengths": [
+        "Profundidade emocional",
+        "Consciência",
+        "Cautela"
+      ],
+      "careers": [
+        "Terapeuta",
+        "Artista",
+        "Pesquisador"
+      ]
+    },
+    "High Emotional Stability": {
+      "title": "O Resiliente",
+      "description": "Calmo e composto sob pressão",
+      "strengths": [
+        "Gestão de estresse",
+        "Adaptabilidade",
+        "Controle emocional"
+      ],
+      "careers": [
+        "Piloto",
+        "Cirurgião",
+        "Gestor de Crise"
+      ]
+    }
+  }
+}

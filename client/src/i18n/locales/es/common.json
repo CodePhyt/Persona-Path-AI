@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "Descubre tu camino único",
+  "error": "Error",
+  "tryAgain": "Intentar de nuevo",
+  "next": "Siguiente",
+  "back": "Atrás",
+  "submit": "Enviar",
+  "continue": "Continuar",
+  "startJourney": "Comienza tu viaje",
+  "beginYourJourney": "Comienza tu viaje",
+  "explore": "Explorar",
+  "startNewAnalysis": "Iniciar nuevo análisis",
+  "explorePersonalities": "Explorar personalidades",
+  "hero": {
+    "title": "Descubre tu verdadero yo",
+    "subtitle": "Análisis de personalidad impulsado por IA que revela tus fortalezas, desafíos y un plan de crecimiento personalizado",
+    "cta": "Comienza tu viaje"
+  },
+  "landing": {
+    "aiPowered": "Autodescubrimiento Impulsado por IA",
+    "decodeYour": "Descifra tu",
+    "truePotential": "Verdadero Potencial",
+    "subtitle": "Ve más allá de las simples pruebas de personalidad. Experimenta un análisis profundo impulsado por IA de tu psique y obtén una hoja de ruta personalizada hacia tus sueños.",
+    "startAnalysis": "Iniciar Análisis",
+    "explorePersonas": "Explorar Personalidades",
+    "features": {
+      "deepAnalysis": {
+        "title": "Análisis Profundo",
+        "desc": "Impulsado por Gemini Pro 1.5 para profundidad psicológica."
+      },
+      "actionableRoadmap": {
+        "title": "Hoja de Ruta Accionable",
+        "desc": "Pasos concretos para alcanzar tus metas de vida."
+      },
+      "visualJourney": {
+        "title": "Viaje Visual",
+        "desc": "Imágenes generadas por IA que representan tu camino."
+      }
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "personas": "Personas",
+    "about": "Acerca de"
+  },
+  "userInfo": {
+    "title": "Cuéntanos sobre ti",
+    "subtitle": "Ayúdanos a personalizar tu experiencia",
+    "helpText": "Esto ayuda a nuestra IA a crear un análisis más personalizado",
+    "age": "Edad",
+    "agePlaceholder": "Ingresa tu edad",
+    "location": "Ubicación",
+    "locationPlaceholder": "ej., Nueva York, EE. UU.",
+    "jobTitle": "Título del trabajo / Industria",
+    "jobTitlePlaceholder": "ej., Ingeniero de software, Estudiante, Emprendedor",
+    "economicSituation": "Situación económica",
+    "primaryGoal": "Objetivo principal / Aspiración",
+    "primaryGoalPlaceholder": "ej., Lanzar mi propio negocio, Encontrar un mejor equilibrio trabajo-vida...",
+    "economicStruggling": "Luchando",
+    "economicTight": "Apretado",
+    "economicStable": "Estable",
+    "economicComfortable": "Cómodo",
+    "economicWealthy": "Rico"
+  },
+  "questionnaire": {
+    "questionCount": "Pregunta {{current}} de {{total}}",
+    "stronglyDisagree": "Totalmente en desacuerdo",
+    "stronglyAgree": "Totalmente de acuerdo",
+    "keyboardHint": "Presiona 1-5 para seleccionar, ←/→ para navegar"
+  },
+  "results": {
+    "analysisComplete": "Análisis completo",
+    "yourProfile": "Tu perfil de persona",
+    "poweredBy": "Impulsado por IA • Perspectivas personalizadas • Estrategias accionables",
+    "coreAnalysis": "Análisis de carácter generado por IA",
+    "personalityRadar": "Radar de personalidad",
+    "traitBreakdown": "Desglose de rasgos",
+    "strategicRoadmap": "Hoja de ruta estratégica",
+    "yourPath": "Tu camino personalizado hacia el éxito",
+    "downloadPDF": "Descargar PDF",
+    "downloadingPDF": "Generando PDF...",
+    "youAre": "Eres un",
+    "completeProfile": "Tu Perfil de Personalidad Completo",
+    "mbtiType": "Tipo MBTI",
+    "enneagram": "Eneagrama",
+    "discStyle": "Estilo DISC",
+    "temperament": "Temperamento",
+    "bigFiveTraits": "Rasgos Dominantes de los Cinco Grandes",
+    "step": "PASO {{number}}",
+    "loading": "Cargando...",
+    "traits": {
+      "vision": "Visión",
+      "drive": "Impulso",
+      "empathy": "Empatía",
+      "logic": "Lógica",
+      "adaptability": "Adaptabilidad",
+      "creativity": "Creatividad"
+    },
+    "back": "Atrás",
+    "next": "Siguiente",
+    "pressToSelect": "Presiona 1-5 para seleccionar, ←/→ para navegar"
+  },
+  "loading": {
+    "analyzing": "Analizando perfil",
+    "message": "Nuestra IA está analizando tus respuestas para crear un perfil personalizado..."
+  }
+}

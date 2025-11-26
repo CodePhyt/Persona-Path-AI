@@ -1,0 +1,569 @@
+{
+  "title": "Kişilik Arketipleri",
+  "subtitle": "İnsan davranışını ve potansiyelini şekillendiren çeşitli çerçeveleri keşfedin",
+  "strengths": "Güçlü Yönler",
+  "careers": "Kariyerler",
+  "systems": {
+    "mbti": "MBTI",
+    "enneagram": "Enneagram",
+    "disc": "DISC",
+    "temperament": "Mizaç",
+    "bigFive": "Büyük Beş"
+  },
+  "mbti": {
+    "INTJ": {
+      "title": "Mimar",
+      "description": "Yaratıcı ve stratejik düşünürler",
+      "strengths": [
+        "Stratejik planlama",
+        "Bağımsız düşünme",
+        "Karmaşık problem çözme"
+      ],
+      "careers": [
+        "Veri Bilimci",
+        "Stratejik Planlayıcı",
+        "Yazılım Mimarı"
+      ]
+    },
+    "ENFJ": {
+      "title": "Kahraman",
+      "description": "Karizmatik ve ilham verici liderler",
+      "strengths": [
+        "Doğal liderlik",
+        "Empati",
+        "İletişim"
+      ],
+      "careers": [
+        "İK Müdürü",
+        "Öğretmen",
+        "Pazarlama Direktörü"
+      ]
+    },
+    "INTP": {
+      "title": "Mantıkçı",
+      "description": "Bilgi susuzluğu olan yenilikçi mucitler",
+      "strengths": [
+        "Analitik düşünme",
+        "Özgün fikirler",
+        "Açık fikirlilik"
+      ],
+      "careers": [
+        "Yazılım Geliştirici",
+        "Araştırma Bilimcisi",
+        "Sistem Analisti"
+      ]
+    },
+    "ENFP": {
+      "title": "Kampanyacı",
+      "description": "Coşkulu ve yaratıcı özgür ruhlar",
+      "strengths": [
+        "Yaratıcılık",
+        "İnsan becerileri",
+        "Coşku"
+      ],
+      "careers": [
+        "Danışman",
+        "Gazeteci",
+        "Sanatçı"
+      ]
+    },
+    "ISTJ": {
+      "title": "Müfettiş",
+      "description": "Pratik ve gerçekçi bireyler",
+      "strengths": [
+        "Organize",
+        "Dürüst",
+        "Güçlü iradeli"
+      ],
+      "careers": [
+        "Muhasebeci",
+        "Askeri Subay",
+        "Hakim"
+      ]
+    },
+    "ESFJ": {
+      "title": "Konsolos",
+      "description": "Şefkatli ve sosyal insanlar",
+      "strengths": [
+        "Başkalarını destekleme",
+        "Sosyal beceriler",
+        "Organize"
+      ],
+      "careers": [
+        "Hemşire",
+        "Etkinlik Koordinatörü",
+        "Sosyal Hizmet Uzmanı"
+      ]
+    },
+    "ISTP": {
+      "title": "Virtüöz",
+      "description": "Cesur ve pratik deneyimciler",
+      "strengths": [
+        "Pratik beceriler",
+        "Problem çözme",
+        "Uyum sağlama"
+      ],
+      "careers": [
+        "Tamirci",
+        "Mühendis",
+        "Pilot"
+      ]
+    },
+    "ESFP": {
+      "title": "Eğlendirici",
+      "description": "Spontan ve enerjik performansçılar",
+      "strengths": [
+        "Coşku",
+        "Sosyal beceriler",
+        "Yaratıcılık"
+      ],
+      "careers": [
+        "Sanatçı",
+        "Satış Temsilcisi",
+        "Etkinlik Planlayıcısı"
+      ]
+    },
+    "INFJ": {
+      "title": "Savunucu",
+      "description": "Sessiz ve mistik idealistler",
+      "strengths": [
+        "Derin kavrayış",
+        "Yaratıcı vizyon",
+        "İdealizm"
+      ],
+      "careers": [
+        "Danışman",
+        "Yazar",
+        "Yaşam Koçu"
+      ]
+    },
+    "ENTJ": {
+      "title": "Komutan",
+      "description": "Cesur ve yaratıcı liderler",
+      "strengths": [
+        "Liderlik",
+        "Stratejik düşünme",
+        "Karizma"
+      ],
+      "careers": [
+        "CEO",
+        "Avukat",
+        "Siyasi Lider"
+      ]
+    },
+    "INFP": {
+      "title": "Arabulucu",
+      "description": "Şiirsel ve nazik fedakarlar",
+      "strengths": [
+        "İdealizm",
+        "Yaratıcılık",
+        "Empati"
+      ],
+      "careers": [
+        "Yazar",
+        "Terapist",
+        "Sanatçı"
+      ]
+    },
+    "ENTP": {
+      "title": "Tartışmacı",
+      "description": "Akıllı ve meraklı düşünürler",
+      "strengths": [
+        "Hızlı düşünme",
+        "Özgün",
+        "Bilgili"
+      ],
+      "careers": [
+        "Mühendis",
+        "Avukat",
+        "Bilim İnsanı"
+      ]
+    },
+    "ISFJ": {
+      "title": "Savunucu",
+      "description": "Özveriyle ve sıcak koruyucular",
+      "strengths": [
+        "Destekleyici",
+        "Güvenilir",
+        "Pratik"
+      ],
+      "careers": [
+        "Hemşire",
+        "Öğretmen",
+        "Yönetici"
+      ]
+    },
+    "ESTJ": {
+      "title": "Yönetici",
+      "description": "Mükemmel yöneticiler",
+      "strengths": [
+        "Organize",
+        "Doğrudan",
+        "Güçlü ilkeler"
+      ],
+      "careers": [
+        "Müdür",
+        "Hakim",
+        "İşletme Sahibi"
+      ]
+    },
+    "ISFP": {
+      "title": "Maceraperest",
+      "description": "Esnek ve çekici sanatçılar",
+      "strengths": [
+        "Sanatsal",
+        "Uyumlu",
+        "Pratik yaratıcılık"
+      ],
+      "careers": [
+        "Sanatçı",
+        "Tasarımcı",
+        "Veteriner"
+      ]
+    },
+    "ESTP": {
+      "title": "Girişimci",
+      "description": "Akıllı ve algısal risk alanlar",
+      "strengths": [
+        "Risk alma",
+        "Uyum yeteneği",
+        "Problem çözme"
+      ],
+      "careers": [
+        "Girişimci",
+        "Satış Yöneticisi",
+        "Spor Koçu"
+      ]
+    }
+  },
+  "enneagram": {
+    "Type 1": {
+      "title": "Reformcu",
+      "description": "İlkeli ve mükemmeliyetçi",
+      "strengths": [
+        "Etik",
+        "Güvenilir",
+        "Gelişme odaklı"
+      ],
+      "careers": [
+        "Kalite Güvence",
+        "Editör",
+        "Hukuk Uzmanı"
+      ]
+    },
+    "Type 2": {
+      "title": "Yardımsever",
+      "description": "Cömert ve hoşnut edici",
+      "strengths": [
+        "Empati",
+        "Cömertlik",
+        "Duygusal zeka"
+      ],
+      "careers": [
+        "Hemşire",
+        "Öğretmen",
+        "Sosyal Hizmet Uzmanı"
+      ]
+    },
+    "Type 3": {
+      "title": "Başarılı",
+      "description": "Başarı odaklı ve pragmatik",
+      "strengths": [
+        "Verimli",
+        "Hedef odaklı",
+        "Kendinden emin"
+      ],
+      "careers": [
+        "Yönetici",
+        "Girişimci",
+        "Satış Müdürü"
+      ]
+    },
+    "Type 4": {
+      "title": "Bireyci",
+      "description": "Hassas ve ifade edici",
+      "strengths": [
+        "Yaratıcılık",
+        "Duygusal farkındalık",
+        "Özgünlük"
+      ],
+      "careers": [
+        "Sanatçı",
+        "Terapist",
+        "Yazar"
+      ]
+    },
+    "Type 5": {
+      "title": "Araştırmacı",
+      "description": "Yoğun ve yenilikçi düşünürler",
+      "strengths": [
+        "Algısal",
+        "Bağımsız",
+        "Bilgili"
+      ],
+      "careers": [
+        "Araştırmacı",
+        "Bilim İnsanı",
+        "Analist"
+      ]
+    },
+    "Type 6": {
+      "title": "Sadık",
+      "description": "Bağlı ve güvenlik odaklı",
+      "strengths": [
+        "Sadakat",
+        "Problem öngörme",
+        "Takım oyuncusu"
+      ],
+      "careers": [
+        "Risk Yöneticisi",
+        "Güvenlik",
+        "İK Uzmanı"
+      ]
+    },
+    "Type 7": {
+      "title": "Coşkulu",
+      "description": "Meşgul ve eğlence seven",
+      "strengths": [
+        "İyimserlik",
+        "Çok yönlülük",
+        "Üretkenlik"
+      ],
+      "careers": [
+        "Pazarlama Yaratıcısı",
+        "Seyahat Acentesi",
+        "Girişimci"
+      ]
+    },
+    "Type 8": {
+      "title": "Meydan Okuyan",
+      "description": "Güçlü ve kendinden emin",
+      "strengths": [
+        "Liderlik",
+        "Koruma",
+        "Karar verme"
+      ],
+      "careers": [
+        "Yönetici",
+        "Avukat",
+        "Askeri Lider"
+      ]
+    },
+    "Type 9": {
+      "title": "Barış Getiren",
+      "description": "Uyumlu ve alıcı",
+      "strengths": [
+        "Arabuluculuk",
+        "Dinleme",
+        "Uyum yaratma"
+      ],
+      "careers": [
+        "Arabulucu",
+        "Diplomat",
+        "Danışman"
+      ]
+    }
+  },
+  "disc": {
+    "D-Style": {
+      "title": "Baskınlık",
+      "description": "Doğrudan ve sonuç odaklı",
+      "strengths": [
+        "Liderlik",
+        "Problem çözme",
+        "İnisiyatif alma"
+      ],
+      "careers": [
+        "Yönetici",
+        "Girişimci",
+        "Satış Direktörü"
+      ]
+    },
+    "I-Style": {
+      "title": "Etki",
+      "description": "Dışa dönük ve coşkulu",
+      "strengths": [
+        "İletişim",
+        "Ağ oluşturma",
+        "İşbirliği"
+      ],
+      "careers": [
+        "Satış Temsilcisi",
+        "Halkla İlişkiler",
+        "Pazarlama Müdürü"
+      ]
+    },
+    "S-Style": {
+      "title": "İstikrar",
+      "description": "Sakin ve sabırlı",
+      "strengths": [
+        "Dinleme",
+        "Takım çalışması",
+        "Takip"
+      ],
+      "careers": [
+        "İK Uzmanı",
+        "Danışman",
+        "Müşteri Hizmetleri"
+      ]
+    },
+    "C-Style": {
+      "title": "Vicdanlılık",
+      "description": "Analitik ve kesin",
+      "strengths": [
+        "Doğruluk",
+        "Problem çözme",
+        "Organizasyon"
+      ],
+      "careers": [
+        "Analist",
+        "Programcı",
+        "Muhasebeci"
+      ]
+    }
+  },
+  "temperament": {
+    "Choleric": {
+      "title": "Lider",
+      "description": "Hırslı ve amaçlı doğal liderler",
+      "strengths": [
+        "Hedef odaklı",
+        "Kendinden emin",
+        "Karar verme"
+      ],
+      "careers": [
+        "Yönetici",
+        "Girişimci",
+        "Siyasi Lider"
+      ]
+    },
+    "Sanguine": {
+      "title": "Sosyalleştirici",
+      "description": "Dışa dönük ve doğal neşeli",
+      "strengths": [
+        "İletişim",
+        "Coşku",
+        "Yaratıcılık"
+      ],
+      "careers": [
+        "Satış",
+        "Eğlence",
+        "Öğretmenlik"
+      ]
+    },
+    "Phlegmatic": {
+      "title": "Barış Getiren",
+      "description": "Rahat ve uyumlu",
+      "strengths": [
+        "Tutarlılık",
+        "Diplomasi",
+        "Yönetim yeteneği"
+      ],
+      "careers": [
+        "Danışman",
+        "Yönetici",
+        "Destek Rolü"
+      ]
+    },
+    "Melancholic": {
+      "title": "Düşünür",
+      "description": "Derin ve analitik mükemmeliyetçiler",
+      "strengths": [
+        "Detay odaklı",
+        "Organizasyon",
+        "Analitik düşünme"
+      ],
+      "careers": [
+        "Araştırmacı",
+        "Yazar",
+        "Kalite Kontrol"
+      ]
+    }
+  },
+  "bigFive": {
+    "High Openness": {
+      "title": "Kâşif",
+      "description": "Meraklı ve yaratıcı",
+      "strengths": [
+        "Yenilik",
+        "Soyut düşünme",
+        "Sanat takdiri"
+      ],
+      "careers": [
+        "Sanatçı",
+        "Araştırmacı",
+        "Yazar"
+      ]
+    },
+    "High Conscientiousness": {
+      "title": "Organizatör",
+      "description": "Sorumlu ve organize",
+      "strengths": [
+        "Öz disiplin",
+        "Planlama",
+        "Detaylara dikkat"
+      ],
+      "careers": [
+        "Proje Yöneticisi",
+        "Finansal Analist",
+        "Sistem Analisti"
+      ]
+    },
+    "High Extraversion": {
+      "title": "Enerjik",
+      "description": "Dışa dönük ve enerjik",
+      "strengths": [
+        "Liderlik",
+        "Ağ oluşturma",
+        "Coşku"
+      ],
+      "careers": [
+        "Satış Temsilcisi",
+        "Etkinlik Planlayıcısı",
+        "Halkla İlişkiler"
+      ]
+    },
+    "High Agreeableness": {
+      "title": "Diplomat",
+      "description": "İşbirlikçi ve merhametli",
+      "strengths": [
+        "Empati",
+        "Takım çalışması",
+        "Çatışma çözümü"
+      ],
+      "careers": [
+        "Danışman",
+        "Sosyal Hizmet Uzmanı",
+        "Öğretmen"
+      ]
+    },
+    "High Neuroticism": {
+      "title": "Hassas",
+      "description": "Duygusal olarak farkında ve duyarlı",
+      "strengths": [
+        "Duygusal derinlik",
+        "Farkındalık",
+        "Dikkat"
+      ],
+      "careers": [
+        "Terapist",
+        "Sanatçı",
+        "Araştırmacı"
+      ]
+    },
+    "High Emotional Stability": {
+      "title": "Dirençli",
+      "description": "Baskı altında sakin ve kendine hakim",
+      "strengths": [
+        "Stres yönetimi",
+        "Uyum yeteneği",
+        "Duygusal kontrol"
+      ],
+      "careers": [
+        "Pilot",
+        "Cerrah",
+        "Kriz Yöneticisi"
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "Scopri il tuo percorso unico",
+  "error": "Errore",
+  "tryAgain": "Riprova",
+  "next": "Avanti",
+  "back": "Indietro",
+  "submit": "Invia",
+  "continue": "Continua",
+  "startJourney": "Inizia il tuo viaggio",
+  "beginYourJourney": "Inizia il tuo viaggio",
+  "explore": "Esplora",
+  "startNewAnalysis": "Inizia nuova analisi",
+  "explorePersonalities": "Esplora personalità",
+  "hero": {
+    "title": "Scopri il tuo vero io",
+    "subtitle": "Analisi della personalità basata sull'IA che rivela i tuoi punti di forza, le sfide e una roadmap di crescita personalizzata",
+    "cta": "Inizia il tuo viaggio"
+  },
+  "landing": {
+    "aiPowered": "Scoperta di sé alimentata dall'IA",
+    "decodeYour": "Decodifica il tuo",
+    "truePotential": "Vero Potenziale",
+    "subtitle": "Vai oltre i semplici test di personalità. Sperimenta un'analisi profonda guidata dall'IA della tua psiche e ottieni una roadmap personalizzata verso i tuoi sogni.",
+    "startAnalysis": "Inizia l'analisi",
+    "explorePersonas": "Esplora le personalità",
+    "features": {
+      "deepAnalysis": {
+        "title": "Analisi approfondita",
+        "desc": "Alimentato da Gemini Pro 1.5 per profondità psicologica."
+      },
+      "actionableRoadmap": {
+        "title": "Roadmap attuabile",
+        "desc": "Passi concreti per raggiungere i tuoi obiettivi di vita."
+      },
+      "visualJourney": {
+        "title": "Viaggio visivo",
+        "desc": "Immagini generate dall'IA che rappresentano il tuo percorso."
+      }
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "personas": "Personas",
+    "about": "Chi siamo"
+  },
+  "userInfo": {
+    "title": "Parlaci di te",
+    "subtitle": "Aiutaci a personalizzare la tua esperienza",
+    "helpText": "Questo aiuta la nostra IA a creare un'analisi più personalizzata",
+    "age": "Età",
+    "agePlaceholder": "Inserisci la tua età",
+    "location": "Posizione",
+    "locationPlaceholder": "es. Roma, Italia",
+    "jobTitle": "Titolo di lavoro / Settore",
+    "jobTitlePlaceholder": "es. Ingegnere software, Studente, Imprenditore",
+    "economicSituation": "Situazione economica",
+    "primaryGoal": "Obiettivo principale / Aspirazione",
+    "primaryGoalPlaceholder": "es. Avviare la mia attività, Trovare un migliore equilibrio vita-lavoro...",
+    "economicStruggling": "In difficoltà",
+    "economicTight": "Stretta",
+    "economicStable": "Stabile",
+    "economicComfortable": "Confortevole",
+    "economicWealthy": "Benestante"
+  },
+  "questionnaire": {
+    "questionCount": "Domanda {{current}} di {{total}}",
+    "stronglyDisagree": "Fortemente in disaccordo",
+    "stronglyAgree": "Fortemente d'accordo",
+    "keyboardHint": "Premi 1-5 per selezionare, ←/→ per navigare"
+  },
+  "results": {
+    "analysisComplete": "Analisi completata",
+    "yourProfile": "Il tuo profilo persona",
+    "poweredBy": "Powered by AI • Approfondimenti personalizzati • Strategie attuabili",
+    "coreAnalysis": "Analisi del carattere generata dall'IA",
+    "personalityRadar": "Radar della personalità",
+    "traitBreakdown": "Ripartizione dei tratti",
+    "strategicRoadmap": "Roadmap strategica",
+    "yourPath": "Il tuo percorso personalizzato verso il successo",
+    "downloadPDF": "Scarica PDF",
+    "downloadingPDF": "Generazione PDF...",
+    "youAre": "Sei un",
+    "completeProfile": "Il Tuo Profilo di Personalità Completo",
+    "mbtiType": "Tipo MBTI",
+    "enneagram": "Enneagramma",
+    "discStyle": "Stile DISC",
+    "temperament": "Temperamento",
+    "bigFiveTraits": "Tratti Dominanti dei Big Five",
+    "step": "PASSO {{number}}",
+    "loading": "Caricamento...",
+    "traits": {
+      "vision": "Visione",
+      "drive": "Spinta",
+      "empathy": "Empatia",
+      "logic": "Logica",
+      "adaptability": "Adattabilità",
+      "creativity": "Creatività"
+    },
+    "back": "Indietro",
+    "next": "Avanti",
+    "pressToSelect": "Premi 1-5 per selezionare, ←/→ per navigare"
+  },
+  "loading": {
+    "analyzing": "Analisi del profilo",
+    "message": "La nostra IA sta analizzando le tue risposte per creare un profilo personalizzato..."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "appName": "PersonaPath AI",
+  "tagline": "Benzersiz yolunuzu keşfedin",
+  "error": "Hata",
+  "tryAgain": "Tekrar Dene",
+  "next": "İleri",
+  "back": "Geri",
+  "submit": "Gönder",
+  "continue": "Devam Et",
+  "startJourney": "Yolculuğuna Başla",
+  "beginYourJourney": "Yolculuğuna Başla",
+  "explore": "Keşfet",
+  "startNewAnalysis": "Yeni Analiz Başlat",
+  "explorePersonalities": "Kişilikleri Keşfet",
+  "hero": {
+    "title": "Gerçek Kendinizi Keşfedin",
+    "subtitle": "Güçlü yönlerinizi, zorluklarınızı ve kişiselleştirilmiş büyüme yol haritanızı ortaya çıkaran yapay zeka destekli kişilik analizi",
+    "cta": "Yolculuğunuza Başlayın"
+  },
+  "landing": {
+    "aiPowered": "Yapay Zeka Destekli Öz Keşif",
+    "decodeYour": "Kodunu Çöz",
+    "truePotential": "Gerçek Potansiyelin",
+    "subtitle": "Basit kişilik testlerinin ötesine geçin. Psişenizin derinlemesine, yapay zeka destekli analizini deneyimleyin ve hayallerinize giden kişiselleştirilmiş bir yol haritası edinin.",
+    "startAnalysis": "Analize Başla",
+    "explorePersonas": "Kişilikleri Keşfet",
+    "features": {
+      "deepAnalysis": {
+        "title": "Derinlemesine Analiz",
+        "desc": "Psikolojik derinlik için Gemini Pro 1.5 tarafından desteklenmektedir."
+      },
+      "actionableRoadmap": {
+        "title": "Uygulanabilir Yol Haritası",
+        "desc": "Hayat hedeflerinize ulaşmak için somut adımlar."
+      },
+      "visualJourney": {
+        "title": "Görsel Yolculuk",
+        "desc": "Yolunuzu temsil eden yapay zeka tarafından oluşturulan görüntüler."
+      }
+    }
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "personas": "Kişilikler",
+    "about": "Hakkında"
+  },
+  "userInfo": {
+    "title": "Bize Kendinden Bahset",
+    "subtitle": "Deneyimini kişiselleştirmemize yardımcı ol",
+    "helpText": "Bu, yapay zekamızın daha kişiselleştirilmiş bir analiz oluşturmasına yardımcı olur",
+    "age": "Yaş",
+    "agePlaceholder": "Yaşını gir",
+    "location": "Konum",
+    "locationPlaceholder": "örn. İstanbul, Türkiye",
+    "jobTitle": "İş Unvanı / Sektör",
+    "jobTitlePlaceholder": "örn. Yazılım Mühendisi, Öğrenci, Girişimci",
+    "economicSituation": "Ekonomik Durum",
+    "primaryGoal": "Birincil Hedef / İstek",
+    "primaryGoalPlaceholder": "örn. Kendi işimi kurmak, Daha iyi iş-yaşam dengesi bulmak...",
+    "economicStruggling": "Mücadele ediyor",
+    "economicTight": "Sıkışık",
+    "economicStable": "İstikrarlı",
+    "economicComfortable": "Rahat",
+    "economicWealthy": "Varlıklı"
+  },
+  "questionnaire": {
+    "questionCount": "Soru {{current}} / {{total}}",
+    "stronglyDisagree": "Kesinlikle Katılmıyorum",
+    "stronglyAgree": "Kesinlikle Katılıyorum",
+    "keyboardHint": "Seçmek için 1-5, gezinmek için ←/→ tuşlarına basın"
+  },
+  "results": {
+    "analysisComplete": "Analiz Tamamlandı",
+    "yourProfile": "Persona Profilin",
+    "poweredBy": "Yapay Zeka Destekli • Kişiselleştirilmiş İçgörüler • Uygulanabilir Stratejiler",
+    "coreAnalysis": "Yapay Zeka Tarafından Oluşturulan Karakter Analizi",
+    "personalityRadar": "Kişilik Radarı",
+    "traitBreakdown": "Özellik Dağılımı",
+    "strategicRoadmap": "Stratejik Yol Haritası",
+    "yourPath": "Başarıya giden kişiselleştirilmiş yolun",
+    "downloadPDF": "PDF İndir",
+    "downloadingPDF": "PDF Oluşturuluyor...",
+    "youAre": "Siz",
+    "completeProfile": "Tam Kişilik Profiliniz",
+    "mbtiType": "MBTI Tipi",
+    "enneagram": "Enneagram",
+    "discStyle": "DISC Tarzı",
+    "temperament": "Mizaç",
+    "bigFiveTraits": "Baskın Büyük Beş Özellikleri",
+    "step": "ADIM {{number}}",
+    "loading": "Yükleniyor...",
+    "traits": {
+      "vision": "Vizyon",
+      "drive": "İtici Güç",
+      "empathy": "Empati",
+      "logic": "Mantık",
+      "adaptability": "Uyum Yeteneği",
+      "creativity": "Yaratıcılık"
+    },
+    "back": "Geri",
+    "next": "İleri",
+    "pressToSelect": "Seçmek için 1-5'e basın, gezinmek için ←/→"
+  },
+  "loading": {
+    "analyzing": "Profil Analiz Ediliyor",
+    "message": "Yapay zekamız, kişiselleştirilmiş bir profil oluşturmak için yanıtlarını analiz ediyor..."
+  }
+}
