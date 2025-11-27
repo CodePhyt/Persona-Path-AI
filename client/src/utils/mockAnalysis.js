@@ -87,6 +87,33 @@ function getRoadmap(lang, grp, context) {
                 { step: "Schritt 4", title: "Nutzen Sie Expertise", description: "Konsultieren Sie Fachexperten. Validieren Sie Ihre Annahmen. Bauen Sie ein Kompetenznetzwerk auf." },
                 { step: "Schritt 5", title: "Überprüfen & Skalieren", description: "Führen Sie nach 90 Tagen eine Analyse durch. Systematisieren Sie Ihren Erfolg und skalieren Sie Ihre Operationen." }
             ]
+        },
+        tr: {
+            Analysts: [
+                { step: "Adım 1", title: "Hedefinizi Analiz Edin", description: `"${context.goal}" hedefinizi mantıksal bileşenlere ayırın. Net başarı ölçütleri tanımlayın ve potansiyel darboğazları belirleyin. Stratejik bir plan oluşturun.` },
+                { step: "Adım 2", title: "Sisteminizi Tasarlayın", description: "Verimli bir iş akışı tasarlayın. Gereksizleri eleyin. Girdiniz için maksimum çıktı sağlayan yüksek kaldıraçlı faaliyetlere odaklanın." },
+                { step: "Adım 3", title: "Uygulayın ve Optimize Edin", description: "Planınızı hassasiyetle uygulayın. Veri noktalarını günlük olarak izleyin. Geri bildirim döngülerine dayalı olarak hızla yineleyin. Optimizasyon sürekli bir süreçtir." },
+                { step: "Adım 4", title: "Uzmanlıktan Yararlanın", description: "Konu uzmanlarına danışın. Varsayımlarınızı ampirik verilere karşı doğrulayın. Hedefiniz etrafında bir yetkinlik ağı oluşturun." },
+                { step: "Adım 5", title: "İnceleyin ve Ölçeklendirin", description: "90 gün sonra bir durum değerlendirmesi yapın. Verileri analiz edin. Başarınızı sistemleştirin ve operasyonlarınızı ölçeklendirin. Daha yüksek bir çıta belirleyin." }
+            ]
+        },
+        fr: {
+            Analysts: [
+                { step: "Étape 1", title: "Analysez votre objectif", description: `Décomposez votre objectif "${context.goal}" en composants logiques. Définissez des mesures de réussite claires et identifiez les goulots d'étranglement potentiels.` },
+                { step: "Étape 2", title: "Concevez votre système", description: "Concevez un flux de travail efficace. Éliminez les redondances. Concentrez-vous sur les activités à fort effet de levier qui produisent le maximum de résultats." },
+                { step: "Étape 3", title: "Exécutez et optimisez", description: "Mettez en œuvre votre plan avec précision. Surveillez les points de données quotidiennement. Itérez rapidement en fonction des retours. L'optimisation est un processus continu." },
+                { step: "Étape 4", title: "Tirez parti de l'expertise", description: "Consultez des experts en la matière. Validez vos hypothèses par rapport à des données empiriques. Construisez un réseau de compétences autour de votre objectif." },
+                { step: "Étape 5", title: "Examinez et évoluez", description: "Effectuez un post-mortem après 90 jours. Analysez les données. Systématisez votre succès et faites évoluer vos opérations. Fixez une barre plus haute." }
+            ]
+        },
+        es: {
+            Analysts: [
+                { step: "Paso 1", title: "Analice su objetivo", description: `Desglose su objetivo "${context.goal}" en componentes lógicos. Defina métricas de éxito claras e identifique posibles cuellos de botella.` },
+                { step: "Paso 2", title: "Diseñe su sistema", description: "Diseñe un flujo de trabajo eficiente. Elimine redundancias. Céntrese en actividades de alto impacto que produzcan el máximo rendimiento." },
+                { step: "Paso 3", title: "Ejecute y optimice", description: "Implemente su plan con precisión. Supervise los puntos de datos diariamente. Itere rápidamente basándose en los comentarios. La optimización es un proceso continuo." },
+                { step: "Paso 4", title: "Aproveche la experiencia", description: "Consulte con expertos en la materia. Valide sus suposiciones con datos empíricos. Construya una red de competencia en torno a su objetivo." },
+                { step: "Paso 5", title: "Revise y escale", description: "Realice un análisis post-mortem después de 90 días. Analice los datos. Sistematice su éxito y escale sus operaciones. Establezca un punto de referencia más alto." }
+            ]
         }
     };
 
