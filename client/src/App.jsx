@@ -33,18 +33,9 @@ export default function App() {
         goal: userInfo.primaryGoal
       };
 
-      const response = await fetch('http://localhost:5000/api/analyze', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          context: mappedContext,
-          answers: answers,
-          language: i18n.language
-        })
-      });
-
-      if (!response.ok) throw new Error('Failed to analyze data');
-      const data = await response.json();
+      // Use frontend mock generator for standalone deployment (no backend needed)
+      const { generateMockAnalysis } = await import('./utils/mockAnalysis');
+      const data = generateMockAnalysis(mappedContext, answers, i18n.language);
       setAnalysisResults(data);
     } catch (err) {
       console.error(err);
