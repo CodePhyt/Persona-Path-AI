@@ -174,11 +174,7 @@ const getRoadmap = (lang, grp, context) => {
 
   // Check if translation exists for lang and group
   if (translations[lang] && translations[lang][grp]) {
-    // Inject images from English templates (since they are dynamic and same for all)
-    return translations[lang][grp].map((step, index) => ({
-      ...step,
-      imageUrl: templates[grp][index].imageUrl
-    }));
+    return translations[lang][grp];
   }
 
   // Fallback to English if translation missing
